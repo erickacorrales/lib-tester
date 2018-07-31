@@ -1,3 +1,6 @@
+# Reference
+We use library that we generate in this project https://github.com/erickacorrales/example-ng6-lib
+
 # LibTester
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
